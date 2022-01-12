@@ -7,6 +7,8 @@ We want to thank [Brendan Eich](https://github.com/BrendanEich), [Evan You](http
 Thank you so much for all that you have done and do.
 
 Signed,
+- Sergey Romanenko ([@awilum](https://github.com/awilum)), Fullstack Developer️, 🇷🇺 Russia
+
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
