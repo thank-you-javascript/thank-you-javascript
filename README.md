@@ -7,3 +7,7 @@ We want to thank [Brendan Eich](https://github.com/BrendanEich), [Evan You](http
 Thank you so much for all that you have done and do.
 
 Signed,
+
+Inspired by the
+[Thank You Github](https://github.com/thank-you-github/thank-you-github),
+[Thank You PHP](https://github.com/thank-you-php/thank-you-php).
